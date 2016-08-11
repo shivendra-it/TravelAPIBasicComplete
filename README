@@ -1,3 +1,6 @@
 This is sole Property of Author(SHIVENDRA PRATAP SINGH).
 Any use or redistribution without permission is prohibited.
 If needed contact me @-> shivendraps15@gmail.com
+
+1> It uses the goibibo data for city and hotel 
+2> Uses neo4j database for storing and creating relationships.
